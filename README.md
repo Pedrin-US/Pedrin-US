@@ -13,16 +13,22 @@ Sou estudante do último ano de Suporte e Manutenção de Computadores. Atualmen
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas:
 
-- 🐍 **Linguagem e Automação**
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) — Desenvolvimento de scripts para otimização de tarefas de infraestrutura.
-  
-- 🗂️ **Versionamento e Organização**
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) — Gestão de código, documentação e colaboração em projetos técnicos.
+**Linguagem e Automação**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+*Scripts para automação de tarefas e lógica de sistemas.*
 
-- 🖥️ **Hardware e Suporte**
-  - Manutenção de sistemas, diagnóstico de hardware e suporte técnico a usuários.
+**Desenvolvimento Web Básico**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+*Criação de interfaces responsivas e estruturas web fundamentais.*
+
+**Versionamento e Organização**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+*Controle de versão, documentação e gestão de repositórios.*
 
 **Conhecimentos Técnicos**
 - 🖥️ **Hardware:** Montagem, manutenção e diagnóstico de equipamentos.
